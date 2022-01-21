@@ -1,0 +1,7 @@
+name: Jelles
+version: '${project.version}'
+main: zjelles.jelles.Jelles
+authors: [ zJelles ]
+commands:
+  items:
+  jellesvillager:
